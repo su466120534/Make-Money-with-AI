@@ -1,4 +1,4 @@
-# Make-Money-with-AI
+# Make-Money-with-AI 实用AI工具大全
 AI Tools, AI business opportunity，Make money with AI，Make Money with ChatGPT.
 
 AI工具国外各种各样，很多都可以直接复制过来做成中文版本。（本文持续更新中....）
